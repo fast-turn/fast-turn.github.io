@@ -1,0 +1,110 @@
+body{   
+    background: #eee;  
+}  
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;  
+}  
+#separador{
+    color: black;
+    font-size: 10px;
+    padding: 2px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  float: left;
+  background-color: #F6E3CA;
+  margin-right: 10px;
+  border: #D7C8B6 2px solid;
+}
+
+a {
+  color: black;
+  padding: 0 4px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: #D7C8B6;
+}
+table{
+
+    border-collapse: separate;
+    border-spacing: 5px;;
+
+}
+th{
+    background-color: lightcyan;
+    text-align: center;
+    border-collapse: separate;
+    margin: 5px;
+  padding:2px;
+  border: lightcoral 2px solid;
+}
+tr{
+    border-collapse: separate;
+}
+td{
+    border-collapse: separate;
+    text-align: center;
+    border: lightcoral 2px solid;
+
+}
+#return{
+    font-size: 20px;
+    color: lightsalmon;
+  padding: 0 4px;
+  text-decoration: none;
+}
+#return:hover {
+  background-color: white;
+  color: #D7C8B6;
+}
+#logout{
+     color:lightskyblue;
+  padding: 0 4px;
+  text-decoration: none;
+}
+#logout: hover{
+    background-color: white;
+  color: #D7C8B6;
+}
+#salida{
+    align-self: right;
+}
+#tam{
+    font-size: 35px solid;
+    text-size-adjust: auto;
+}
+#cant{
+   font-size: 35px solid;
+    text-size-adjust: auto;
+}
+
+#enviar {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 0 auto;
+   }
+.trz{
+background-color:gray;
+color:darkred;
+
+}
